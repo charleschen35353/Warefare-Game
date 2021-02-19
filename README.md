@@ -1,8 +1,11 @@
 # Environment
 
 openjdk version "15.0.2" 2021-01-19
+
 OpenJDK Runtime Environment (build 15.0.2+10)
+
 OpenJDK 64-Bit Server VM (build 15.0.2+10, mixed mode, sharing)
+
 javafx-sdk-11.0.2
 
 Developed Under Ubuntu Linux 16.04
